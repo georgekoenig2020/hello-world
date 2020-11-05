@@ -1,2 +1,3 @@
 # hello-world
-just another test repository
+Hi Humans,
+this is another commit.
